@@ -5,7 +5,6 @@
 在线文档：[从零开始重写sylar C++高性能分布式服务器框架](https://www.midlane.top/wiki/pages/viewpage.action?pageId=10060952)。
 
 ## 项目模块
-| ---------- |
  | 项目初始化 |
 | 实现日志模块 |
 | Util与Macro模块 |
